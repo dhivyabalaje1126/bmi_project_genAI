@@ -3,3 +3,5 @@ A mini-project that calculates BMI base on height and weight, integrated with Ge
 Created on: 28th July 2025
 
 Feel free to use this and explore.
+
+Link for the app that was made using this code and deployed in Streamlit: https://myfirstapp-bmiprojectgenai.streamlit.app/
